@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DAYBREAK FRONTLINE",
+  "base_artist": "めありー",
+  "createdAt": "2025-12-25T17:42:01.470374Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Daybreak Frontline",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/01_Daybreak_Frontline_Orangestar.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "Orangestar feat. IA",
+      "has_synced": true,
+      "path": "select/02_DAYBREAK_FRONTLINE_Orangestar_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_DAYBREAK_FRONTLINE_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "MARY",
+      "has_synced": true,
+      "path": "select/04_DAYBREAK_FRONTLINE_MARY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "Orangestar feat. IA",
+      "has_synced": false,
+      "path": "select/05_DAYBREAK_FRONTLINE_Orangestar_feat._IA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/06_DAYBREAK_FRONTLINE_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/07_DAYBREAK_FRONTLINE_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "IA",
+      "has_synced": true,
+      "path": "select/08_DAYBREAK_FRONTLINE_IA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/09_DAYBREAK_FRONTLINE_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Orangestar - DAYBREAK FRONTLINE (feat. IA) Official Video",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/10_Orangestar_-_DAYBREAK_FRONTLINE_(feat._IA)_Official_Video_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "めありー/Orangestar",
+      "has_synced": true,
+      "path": "select/11_DAYBREAK_FRONTLINE_めありー_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE (feat. 小豆沢こはね",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/12_DAYBREAK_FRONTLINE_(feat._小豆沢こはね_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "Orangestar feat. IA",
+      "has_synced": true,
+      "path": "select/13_DAYBREAK_FRONTLINE_Orangestar_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "めありー",
+      "has_synced": true,
+      "path": "select/14_DAYBREAK_FRONTLINE_めありー.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Daybreak Frontline",
+      "artist": "Ikasan",
+      "has_synced": true,
+      "path": "select/15_Daybreak_Frontline_Ikasan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク",
+      "has_synced": true,
+      "path": "select/16_DAYBREAK_FRONTLINE_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "麻婆豆腐",
+      "has_synced": true,
+      "path": "select/17_DAYBREAK_FRONTLINE_麻婆豆腐.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DAYBREAK FRONTLINE",
+      "artist": "めありー",
+      "has_synced": false,
+      "path": "select/pl_01_DAYBREAK_FRONTLINE_めありー.txt"
+    }
+  ]
+}
